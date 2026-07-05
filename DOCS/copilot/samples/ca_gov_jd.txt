@@ -1,0 +1,10 @@
+State of California — Data Scientist Classification
+
+Job Control: JC-456789
+Department: California Department of Public Health
+
+Location: Remote within California (telecommute allowed)
+
+This is a state government position. A Duty Statement is required for final analysis.
+
+Duties include predictive modeling, dashboards for policy leaders, and evaluation frameworks.

@@ -1,0 +1,16 @@
+Remote Applied AI Engineer
+
+Location: Fully remote, US only
+
+We are hiring an Applied AI Engineer to build customer-facing RAG workflows and agentic systems.
+
+Requirements:
+- Python, LangChain, LangGraph
+- Customer-facing AI solution delivery
+- RAG pipeline design
+- Streamlit or similar for demos
+- Strong communication with stakeholders
+
+Nice to have:
+- Claude API experience
+- Evaluation frameworks for LLM apps

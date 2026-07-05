@@ -1,0 +1,11 @@
+Alex Chen
+San Francisco, CA
+
+Applied AI engineer building customer-facing RAG workflows, Streamlit tools, and data analytics products.
+Experience with Python, Claude API, Playwright automation, and SQLite pipelines.
+
+Projects:
+- Job application intelligence copilot with LangGraph, Chroma evidence retrieval, and structured LLM outputs
+- Analytics dashboards for operational decision making
+
+Skills: Python, Machine Learning, LLMs, LangGraph, Playwright, FastAPI, Pydantic, Data Analytics

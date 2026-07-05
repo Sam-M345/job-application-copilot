@@ -1,0 +1,57 @@
+Name: Alex Chen
+San Francisco, CA
+Phone: (555) 123-4567
+Email: alex.chen.example@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/example-profile/
+Kaggle: https://www.kaggle.com/example/code
+Portfolio: https://example-portfolio.dev/
+GitHub: https://github.com/example-user
+
+---
+
+Professional Summary
+
+Applied AI engineer with experience building customer-facing RAG workflows, LangGraph agents, and analytics tools in Python. Comfortable translating business requirements into Streamlit prototypes, structured LLM outputs, and testable pipelines.
+
+---
+
+Technical Skills
+
+Python, SQL, LangGraph, LangChain, RAG, vector databases, Chroma, Pydantic, Streamlit, FastAPI, Claude API, Playwright, data pipelines, ETL, dashboards, A/B testing, stakeholder communication.
+
+---
+
+Professional Experience
+
+Example Corp - Applied AI Engineer | Jan 2022 - Present
+- Built a six-node LangGraph support copilot with retrieval, evidence grounding, and structured JSON outputs
+- Reduced manual triage time by integrating resume/JD analysis into a Streamlit workflow
+- Partnered with customer-facing teams to validate keyword-gap recommendations before materials generation
+
+Data Startup - Analytics Engineer | Jun 2019 - Dec 2021
+- Owned SQL + Python pipelines for product and growth metrics
+- Shipped executive dashboards and experiment readouts for non-technical stakeholders
+
+---
+
+Projects
+
+Support Agent Demo
+Production-style RAG copilot with Chroma indexing, Anthropic Claude calls, and DOCX export for tailored resumes.
+
+Job Fit Analyzer
+Streamlit app that scores location fit, relevance, keyword gaps, and employer objections from resume + JD inputs.
+
+---
+
+Education
+
+BS Computer Science, Example University
+
+---
+
+Certifications
+
+MIT Machine Learning Certificate (example)
+Google Data Analytics Professional Certificate (example)

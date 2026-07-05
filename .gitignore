@@ -1,0 +1,69 @@
+# Secrets
+.env
+.env.*
+!.env.example
+copilot/.env
+!copilot/.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Private candidate data (never commit real files)
+Knowledge_Base_Source.txt
+data/*
+!data/.gitkeep
+
+# Local-only project areas (not part of public portfolio)
+ARCHIVED/
+SOP/
+tampermonkey/
+src/
+scripts/
+requirements.txt
+
+# Phase 1 internal docs (Copilot README is the public guide)
+DOCS/PROJECT_OVERVIEW.md
+DOCS/README.md
+DOCS/Job Board Rules.md
+DOCS/TDD.txt
+
+# Project artifacts / generated output
+outputs/
+scripts/outputs/
+.playwright-mcp/
+Logs/**
+!Logs/copilot/.gitkeep
+*.db
+*.sqlite
+*.sqlite3
+*.mhtml
+*.lnk
+*.log
+
+# Copilot runtime
+copilot/.chroma/
+copilot/.cache/
+
+# Playwright
+.playwright/
+playwright-report/
+test-results/
+
+# Local debug / IDE
+test_browser.py
+.cursor/
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

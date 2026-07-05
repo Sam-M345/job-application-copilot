@@ -1,0 +1,49 @@
+{
+  "first_name": "Alex",
+  "last_name": "Chen",
+  "email": "alex.chen.example@gmail.com",
+  "phone": "555-123-4567",
+  "location": "San Francisco, CA",
+  "linkedin": "https://www.linkedin.com/in/example-profile/",
+  "github": "https://github.com/example-user",
+  "portfolio": "https://example-portfolio.dev/",
+  "kaggle": "https://www.kaggle.com/example/code",
+  "work_authorization": "Authorized to work in the US",
+  "requires_sponsorship": "No",
+  "expected_compensation": "",
+  "summary": "Applied AI engineer focused on customer-facing workflows, RAG, LangGraph, and data analytics.",
+  "skills": [
+    "Python",
+    "LangGraph",
+    "LangChain",
+    "RAG",
+    "Claude",
+    "Streamlit",
+    "Data Analytics"
+  ],
+  "certifications": [
+    {
+      "name": "MIT Machine Learning Certificate",
+      "url": "https://courses.edx.org/certificates/example-mit"
+    },
+    {
+      "name": "Google Data Analytics Professional Certificate",
+      "url": "https://www.coursera.org/account/accomplishments/professional-cert/example"
+    }
+  ],
+  "target_locations": [
+    "Remote",
+    "San Francisco",
+    "San Francisco Bay Area",
+    "Hybrid in Bay Area"
+  ],
+  "target_role_themes": [
+    "Applied AI",
+    "Customer-facing AI",
+    "RAG workflows",
+    "AI solutions engineer",
+    "Data scientist",
+    "Growth analytics",
+    "Forward deployed engineer"
+  ]
+}

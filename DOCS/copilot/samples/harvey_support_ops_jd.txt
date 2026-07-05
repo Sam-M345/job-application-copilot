@@ -1,0 +1,122 @@
+Support Operations Data Analyst
+San Francisco, CA · 2 weeks ago · Over 100 people clicked apply
+Promoted by hirer · Responses managed off LinkedIn
+
+
+ Hybrid
+Matches your job preferences, workplace type is Hybrid.
+
+ Full-time
+Matches your job preferences, job type is Full-time.
+
+Apply
+
+Save
+Save Support Operations Data Analyst at Harvey
+Support Operations Data Analyst
+Harvey · San Francisco, CA (Hybrid)
+
+Apply
+
+Save
+Save Support Operations Data Analyst at Harvey
+Show more options
+Job match is high, we can help you stand out
+Your profile matches the required qualifications well
+
+
+Show match details
+
+Tailor my resume
+
+Help me stand out
+
+Create cover letter
+
+BETA
+
+Is this information helpful?
+
+
+
+People you can reach out to
+Sathvika profile photo
+Sathvika profile photo
+Sathvika Ramachandran 
+Sathvika Ramachandran is verified 
+· 1st
+Business Development @ Harvey | Kellogg MBA
+
+Message
+About the job
+Why Harvey
+
+At Harvey, we're transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we're reshaping how critical knowledge work gets done for decades to come.
+
+This is a rare chance to help build a generational company at a true inflection point. With 1500+ customers in 60+ countries, strong product-market fit, and world-class investor support, we're scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched.
+
+Our team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you.
+
+At Harvey, the future of professional services is being written today — and we're just getting started.
+
+Role Overview
+
+User Operations runs on data — but right now, that data lives in too many places, speaks too many languages, and reaches the wrong people too late. This role exists to fix that.
+
+As Harvey's first Support Operations Data Analyst, you'll own the analytics function for the User Operations org. You'll build and maintain the dashboards, reports, and feedback loops that tell us whether we're hitting our north stars — cSAT, TTR, QA scores, escalation rates — and surface the signal underneath the numbers so we can act on it. You'll sit within the Support Operations team, reporting to the Support Operations Manager, and work closely with User Operations leadership and Harvey's central data team to ensure the org is equipped with the right instrumentation as we scale.
+
+This is a solo role. You won't have a team beneath you. You will need to be fluent enough in support analytics to hold the function independently, confident enough to push back on how metrics are framed, and fast enough to operate at Harvey's pace.
+
+What You'll Do
+
+Own recurring reporting for User Operations — weekly, monthly, and QBR-ready — tailored to ops, leadership, and cross-functional audiences
+Translate support data into clear narratives: what's happening, why, and what to do about it
+Track and maintain north star metrics: cSAT, TTR by tier, QA scores, bug escalation rate to EPD, and First Response Time
+Build and maintain self-serve dashboards that give the ops team and leadership real-time visibility into support performance
+Partner with Support Systems to ensure Zendesk is instrumented to capture the data we need
+Work with Harvey's central data team to connect support data to broader product and customer data sources
+Identify and close data collection gaps — if we can't measure it, help define how we should
+Design feedback loops that connect support signals to Product, Engineering, and Customer Success
+Quantify the operational cost of product bugs, feature gaps, and onboarding failures
+Contribute to QA analytics as the QA program matures
+Track ticket deflection, AI/chatbot performance, and self-service effectiveness
+Measure the impact of AI-driven support — containment rate, escalation rate from AI interactions, resolution quality — and surface findings that drive how we tune and invest in those tools
+Support ad hoc analytical requests from the Support Operations Manager, User Operations leadership, and senior stakeholders
+
+Required
+
+What You Have
+
+3–5 years of experience in analytics, with at least 2 years directly in support operations, customer success operations, or a closely adjacent function
+Fluency in support platform data — you know how Zendesk (or equivalent) is structured, what data it produces, and what it doesn't
+SQL proficiency — you can write complex queries against large datasets without hand-holding (CTEs, window functions, joins across schemas)
+Dashboard experience — you've built and maintained operational dashboards in Looker, Tableau, Sigma, Omni, or equivalent
+Reporting for multiple audiences — you know the difference between what a frontline manager needs and what a CFO needs, and you build accordingly
+Strong data storytelling — you don't just present numbers, you write the narrative
+Comfort operating solo — you don't need a team around you to deliver, and you don't need a ticket to tell you what to look at
+
+Strong Plus
+
+Experience with Python for data manipulation or automation
+Familiarity with dbt or similar data transformation tooling
+Experience building or contributing to QA analytics programs
+Background supporting enterprise SaaS or AI-native products
+Experience working with Zendesk APIs or extracting data beyond standard reporting
+
+Key Attributes
+
+AI-native: you use AI tooling actively in your analytical workflows — not as a novelty, but as a force multiplier
+Pace: you move in hours and days, not weeks. You surface findings before anyone has to ask
+Judgment: you know which metrics matter and which are vanity. You push back when framing is wrong
+Clarity: your outputs are direct, jargon-free, and actionable. You write for the reader, not yourself
+Ownership: you treat User Operations analytics as your problem to solve, not a ticket queue to process
+
+Compensation
+
+$112,000 - $168,000 USD
+
+Depending on your location, an Applicant Privacy Notice may apply to you. You can find all of our Applicant Privacy Notices [here].
+
+Harvey is an equal opportunity employer and does not discriminate on the basis of race, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition, or any other basis protected by law.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made by emailing accommodations@harvey.ai
