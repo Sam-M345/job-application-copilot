@@ -34,7 +34,7 @@ Resume + JD + profile.json + KB
 ## Setup
 
 ```powershell
-cd path/to/job-application-intelligence-copilot
+cd path/to/job-application-copilot
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
@@ -54,7 +54,7 @@ The last uploaded resume is saved under `copilot/.cache/` and restored automatic
 Or from PowerShell:
 
 ```powershell
-cd path/to/job-application-intelligence-copilot
+cd path/to/job-application-copilot
 streamlit run copilot/app.py
 ```
 
